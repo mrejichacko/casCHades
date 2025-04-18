@@ -1,6 +1,6 @@
-# Food Web Robustness Analysis
+# Analyses of Regional Food Web Robustness under Habitat Loss
 
-We aim to decipher the intricacies of Switzerland's food web by analyzing its robustness under different perturbation techniques.
+## Please refer to the paper for further details: Reji Chacko, M. et al. Decreases in the robustness of regional food webs to sequential species extinctions following habitat loss, 04 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5225132/v1]
 
 ## 🌟 **Objective**
 
@@ -53,7 +53,7 @@ The primary objective of this project is to:
 
 ### Notes
 
-- If you are accessing this folder through git, note that the food webs are too large to upload, please find them here: ENVIDAT LINK
+- If you are accessing this folder through git, note that the food webs are too large to upload, please find them here: ENVIDAT LINK TO BE ADDED
 - First, copy the food webs into the data/foodwebs folder from Envidat repositories: 02_analyses\data\foodwebs\f75a975
 - Second, copy the checklist of species into the data/node_lists from the Envidat repository here: 02_analyses\data\taxa_list.csv
 - If you are accessing this folder through the Envidate repository, please note the constants script will need an update of the folder paths reading to the right folders. e.g. 02_analyses\data\foodwebs\f75a975 to data/foodwebs. Please note that they have been kept separate as the simulations scripts are optimised to run on a remote cluster, while the analyses scripts are optimised to run locally.
