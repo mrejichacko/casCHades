@@ -54,7 +54,7 @@ The primary objective of this project is to:
 
 ### Notes
 
-- If you are accessing this folder through git, note that the food webs are too large to upload, please find them here: ENVIDAT LINK TO BE ADDED
+- If you are accessing this folder through git, note that the food webs are too large to upload, please find them here: DOI: 10.16904/envidat.642
 - First, copy the food webs into the data/foodwebs folder from Envidat repositories: 02_analyses\data\foodwebs\f75a975
 - Second, copy the checklist of species into the data/node_lists from the Envidat repository here: 02_analyses\data\taxa_list.csv
 - If you are accessing this folder through the Envidate repository, please note the constants script will need an update of the folder paths reading to the right folders. e.g. 02_analyses\data\foodwebs\f75a975 to data/foodwebs. Please note that they have been kept separate as the simulations scripts are optimised to run on a remote cluster, while the analyses scripts are optimised to run locally.
