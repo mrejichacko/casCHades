@@ -1,6 +1,7 @@
 # Analyses of Regional Food Web Robustness under Habitat Loss
 
-### Reji Chacko, M., Albouy, C., Altermatt, F. et al. Species loss in key habitats accelerates regional food web disruption. <i>Commun Biol</i> 8, 988 (2025). [https://doi.org/10.1038/s42003-025-08396-y]
+### This repository reproduces the simulations from:
+### Reji Chacko, M., Albouy, C., Altermatt, F. et al. Species loss in key habitats accelerates regional food web disruption. <i>Commun Biol</i> 8, 988 (2025). https://doi.org/10.1038/s42003-025-08396-y
 
 
 ## 🌟 **Objective**
