@@ -1,6 +1,6 @@
 # Analyses of Regional Food Web Robustness under Habitat Loss
 
-### Please refer to the paper for further details: Reji Chacko, M. et al. Decreases in the robustness of regional food webs to sequential species extinctions following habitat loss, 04 December 2024, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5225132/v1]
+### Reji Chacko, M., Albouy, C., Altermatt, F. et al. Species loss in key habitats accelerates regional food web disruption. <i>Commun Biol</i> 8, 988 (2025). [https://doi.org/10.1038/s42003-025-08396-y]
 
 
 ## 🌟 **Objective**
